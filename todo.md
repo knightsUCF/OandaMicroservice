@@ -2,3 +2,4 @@
 - deploy with reverse proxy through nginx
 - create seperate microservice instance as state machine for distributed applications, and handling queues
 - create seperate microservice instance for getting data through Quandl
+- add database for keeping track of trades
